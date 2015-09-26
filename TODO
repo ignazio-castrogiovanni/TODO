@@ -1,26 +1,7 @@
-Sun 13 Sep 2015 19:30:37 AEST
- 
-Sun 13 Sep 2015 19:35:12 AEST
- - 
-Refactoring
-- e /n
-Sun 13 Sep 2015 19:37:31 AEST
-Refactoring
-Sun 13 Sep 2015 19:38:59 AEST
-Refactoring
-Sun 13 Sep 2015 19:39:27 AEST
-Refactoring
-Sun 13 Sep 2015 19:40:25 AEST
-Refactoring
-Mon 14 Sep 2015 10:39:04 AEST
-Refactoring
-Tue 15 Sep 2015 22:34:38 AEST
-Refactoring
-Wed 16 Sep 2015 16:41:39 AEST
-Refactoring
-Fri 18 Sep 2015 16:55:50 AEST
-Refactoring
-Sun 20 Sep 2015 23:10:00 AEST
-Refactoring
-Mon 21 Sep 2015 21:36:23 AEST
-Refactoring
+26 September 2015
+Twitch TV 
+1) Display when a user is online
+2) Display when a user is offline
+3) Display when a user has cancelled (doesn't exist anymore)
+4) Refactor
+
