@@ -1,7 +1,4 @@
-26 September 2015
-Twitch TV 
-1) Display when a user is online
-2) Display when a user is offline
-3) Display when a user has cancelled (doesn't exist anymore)
-4) Refactor
-
+27 September 2015
+1) Create a tab for All - Online - Offline
+2) Show users in the correct section
+3) Refactoring 
